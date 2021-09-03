@@ -1,10 +1,16 @@
 .Cell {
   height: 100px;
   width: 100px;
+  border-radius: 10%;
+  background-image: url('https://cdn0.iconfinder.com/data/icons/marketing-essential/48/v-29-512.png');
+  background-position: center;
+  background-size: cover;
   background-color: darkgray;
   cursor: pointer;
 }
 
 .Cell-lit {
-  background-color: white;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt7ajgUQB8lgdU8VcOu3IJpH4M31VoGVhR2g&usqp=CAU');
+  background-position: center;
+  background-size: cover;
 }
